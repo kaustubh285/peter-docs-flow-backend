@@ -1,5 +1,7 @@
 # Financial Advisor Helper API
 
+UI REPOSITORY: https://github.com/patementhusiast-source/peter-docs-flow/tree/main/src/pages
+
 A Hono-based API for a UK financial advisor helper tool built for hackathon. Manages projects between financial advisors and their customers, with document collection tracking and AI-powered insights.
 
 ## Features
